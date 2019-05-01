@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 9df21aa5c22707f48800166b78317369
+timeCreated: 1496577524
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character_Butterfly_Model
+    100004: Hat_Jnt
+    100006: Head_Jnt
+    100008: L_Antenna
+    100010: L_Antenna1_Jnt
+    100012: L_Antenna2_Jnt
+    100014: L_Wing1_Jnt
+    100016: L_Wing2_Jnt
+    100018: L_Wing_Con
+    100020: R_Antenna
+    100022: R_Antenna1_Jnt
+    100024: R_Antenna2_Jnt
+    100026: R_Wing1_Jnt
+    100028: R_Wing2_Jnt
+    100030: R_Wing_Con
+    100032: Root_Con
+    100034: Root_Jnt
+    100036: Tail1_Jnt
+    100038: Tail2_Jnt
+    100040: Tail_Con
+    400000: //RootNode
+    400002: Character_Butterfly_Model
+    400004: Hat_Jnt
+    400006: Head_Jnt
+    400008: L_Antenna
+    400010: L_Antenna1_Jnt
+    400012: L_Antenna2_Jnt
+    400014: L_Wing1_Jnt
+    400016: L_Wing2_Jnt
+    400018: L_Wing_Con
+    400020: R_Antenna
+    400022: R_Antenna1_Jnt
+    400024: R_Antenna2_Jnt
+    400026: R_Wing1_Jnt
+    400028: R_Wing2_Jnt
+    400030: R_Wing_Con
+    400032: Root_Con
+    400034: Root_Jnt
+    400036: Tail1_Jnt
+    400038: Tail2_Jnt
+    400040: Tail_Con
+    4300000: Character_Butterfly_Model
+    7400000: Butter_Bind_Anim
+    7400002: Butter_Flying_Flap1_Anim
+    7400004: Butter_Flying_Flap2_Anim
+    7400006: Butter_Walking_Idle1_Anim
+    7400008: Butter_Walking_Idle2_Anim
+    9500000: //RootNode
+    13700000: Character_Butterfly_Model
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Butter_Bind_Anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Butterfly_Model
+        weight: 1
+      - path: Root_Con
+        weight: 1
+      - path: Root_Con/L_Antenna
+        weight: 1
+      - path: Root_Con/L_Wing_Con
+        weight: 1
+      - path: Root_Con/R_Antenna
+        weight: 1
+      - path: Root_Con/R_Wing_Con
+        weight: 1
+      - path: Root_Con/Tail_Con
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt/L_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt/R_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt/L_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt/R_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Butter_Flying_Flap1_Anim
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Butterfly_Model
+        weight: 1
+      - path: Root_Con
+        weight: 1
+      - path: Root_Con/L_Antenna
+        weight: 1
+      - path: Root_Con/L_Wing_Con
+        weight: 1
+      - path: Root_Con/R_Antenna
+        weight: 1
+      - path: Root_Con/R_Wing_Con
+        weight: 1
+      - path: Root_Con/Tail_Con
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt/L_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt/R_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt/L_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt/R_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Butter_Flying_Flap2_Anim
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Butterfly_Model
+        weight: 1
+      - path: Root_Con
+        weight: 1
+      - path: Root_Con/L_Antenna
+        weight: 1
+      - path: Root_Con/L_Wing_Con
+        weight: 1
+      - path: Root_Con/R_Antenna
+        weight: 1
+      - path: Root_Con/R_Wing_Con
+        weight: 1
+      - path: Root_Con/Tail_Con
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt/L_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt/R_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt/L_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt/R_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Butter_Walking_Idle1_Anim
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Butterfly_Model
+        weight: 1
+      - path: Root_Con
+        weight: 1
+      - path: Root_Con/L_Antenna
+        weight: 1
+      - path: Root_Con/L_Wing_Con
+        weight: 1
+      - path: Root_Con/R_Antenna
+        weight: 1
+      - path: Root_Con/R_Wing_Con
+        weight: 1
+      - path: Root_Con/Tail_Con
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt/L_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt/R_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt/L_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt/R_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Butter_Walking_Idle2_Anim
+      takeName: Take 001
+      firstFrame: 125
+      lastFrame: 204
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Butterfly_Model
+        weight: 1
+      - path: Root_Con
+        weight: 1
+      - path: Root_Con/L_Antenna
+        weight: 1
+      - path: Root_Con/L_Wing_Con
+        weight: 1
+      - path: Root_Con/R_Antenna
+        weight: 1
+      - path: Root_Con/R_Wing_Con
+        weight: 1
+      - path: Root_Con/Tail_Con
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/L_Antenna1_Jnt/L_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt
+        weight: 1
+      - path: Root_Jnt/Head_Jnt/R_Antenna1_Jnt/R_Antenna2_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Wing1_Jnt/L_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Wing1_Jnt/R_Wing2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

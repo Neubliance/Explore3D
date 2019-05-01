@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: 165331cde4754a7459bab0cbc5c4559a
+timeCreated: 1496577523
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bones_and_Cons
+    100002: Butt_1_Con
+    100004: Butt_1_Jnt
+    100006: Butt_2_Con
+    100008: Butt_2_Jnt
+    100010: Butt_3_Con
+    100012: Butt_3_Jnt
+    100014: //RootNode
+    100016: Firefly_Model
+    100018: Global_Con
+    100020: Head_Con
+    100022: Head_Jnt
+    100024: L_Antena_Con
+    100026: L_Antena_Jnt
+    100028: L_Leg_A_Con
+    100030: L_Leg_A_Jnt
+    100032: L_Leg_B_Jnt
+    100034: L_Leg_B_Jnt 1
+    100036: L_Leg_C_Con
+    100038: L_Leg_C_Jnt
+    100040: L_Shell_Con
+    100042: L_Shell_Jnt
+    100044: L_Wing_Con
+    100046: L_Wing_Jnt
+    100048: R_Antena_Con
+    100050: R_Antena_Jnt
+    100052: R_Leg_A_Con
+    100054: R_Leg_A_Jnt
+    100056: R_Leg_B_Con
+    100058: R_Leg_B_Jnt
+    100060: R_Leg_C_Con
+    100062: R_Leg_C_Jnt
+    100064: R_Shell_Con
+    100066: R_Shell_Jnt
+    100068: R_Wing_Con
+    100070: R_Wing_Jnt
+    100072: Root_Con
+    100074: Root_Jnt
+    400000: Bones_and_Cons
+    400002: Butt_1_Con
+    400004: Butt_1_Jnt
+    400006: Butt_2_Con
+    400008: Butt_2_Jnt
+    400010: Butt_3_Con
+    400012: Butt_3_Jnt
+    400014: //RootNode
+    400016: Firefly_Model
+    400018: Global_Con
+    400020: Head_Con
+    400022: Head_Jnt
+    400024: L_Antena_Con
+    400026: L_Antena_Jnt
+    400028: L_Leg_A_Con
+    400030: L_Leg_A_Jnt
+    400032: L_Leg_B_Jnt
+    400034: L_Leg_B_Jnt 1
+    400036: L_Leg_C_Con
+    400038: L_Leg_C_Jnt
+    400040: L_Shell_Con
+    400042: L_Shell_Jnt
+    400044: L_Wing_Con
+    400046: L_Wing_Jnt
+    400048: R_Antena_Con
+    400050: R_Antena_Jnt
+    400052: R_Leg_A_Con
+    400054: R_Leg_A_Jnt
+    400056: R_Leg_B_Con
+    400058: R_Leg_B_Jnt
+    400060: R_Leg_C_Con
+    400062: R_Leg_C_Jnt
+    400064: R_Shell_Con
+    400066: R_Shell_Jnt
+    400068: R_Wing_Con
+    400070: R_Wing_Jnt
+    400072: Root_Con
+    400074: Root_Jnt
+    4300000: Firefly_Model
+    7400000: Firefly_Bind_Anim
+    7400002: Firefly_Walking_OpenWings_Anim
+    7400004: Firefly_Flying_Anim
+    7400006: Firefly_Walking_Idle_Anim
+    7400008: Firefly_Walking_Anim
+    7400010: Firefly_Held_Anim
+    9500000: //RootNode
+    13700000: Firefly_Model
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Firefly_Bind_Anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firefly_Walking_OpenWings_Anim
+      takeName: Take 001
+      firstFrame: 6
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firefly_Flying_Anim
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firefly_Walking_Idle_Anim
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firefly_Walking_Anim
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firefly_Held_Anim
+      takeName: Take 001
+      firstFrame: 173
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones_and_Cons
+        weight: 1
+      - path: Bones_and_Cons/Global_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Butt_1_Con/Butt_2_Con/Butt_3_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/L_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Antena_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/Head_Con/R_Leg_A_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_B_Jnt 1
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/L_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_B_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Leg_C_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Shell_Con
+        weight: 1
+      - path: Bones_and_Cons/Global_Con/Root_Con/R_Wing_Con
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Butt_1_Jnt/Butt_2_Jnt/Butt_3_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/L_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Antena_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Leg_A_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Shell_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/Head_Jnt/R_Wing_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/L_Leg_C_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_B_Jnt
+        weight: 1
+      - path: Bones_and_Cons/Root_Jnt/R_Leg_C_Jnt
+        weight: 1
+      - path: Firefly_Model
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

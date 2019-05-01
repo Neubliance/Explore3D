@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: 3e38f051e98f83441996602d0f26340c
+timeCreated: 1496577523
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character_Turtle_Model
+    100004: Global_Con
+    100006: Hat_Jnt
+    100008: Head_Con
+    100010: Head_Jnt
+    100012: L_Ankle_Jnt
+    100014: L_Ankle_Jnt 1
+    100016: L_Arm_Con
+    100018: L_Arm_Ik
+    100020: L_Arm_Pol_Con
+    100022: L_Elbow_Jnt
+    100024: L_Foot_Con
+    100026: L_Foot_Con2
+    100028: L_Foot_Ik
+    100030: L_Foot_Jnt
+    100032: L_Foot_Jnt 1
+    100034: L_Hand_Con
+    100036: L_Hand_Ik
+    100038: L_Hip_Jnt
+    100040: L_Knee_Jnt
+    100042: L_Leg_Con
+    100044: L_Leg_Ik
+    100046: L_Shoulder_Jnt
+    100048: Neck_Con
+    100050: Neck_Jnt
+    100052: R_Ankle_Jnt
+    100054: R_Ankle_Jnt 1
+    100056: R_Arm_Con
+    100058: R_Arm_Ik
+    100060: R_Arm_Pol_Con
+    100062: R_Elbow_Jnt
+    100064: R_Foot_Ik
+    100066: R_Foot_Jnt
+    100068: R_Foot_Jnt 1
+    100070: R_Hand_Con
+    100072: R_Hand_Ik
+    100074: R_Hip_Jnt
+    100076: R_Knee_Jnt
+    100078: R_Leg_Con
+    100080: R_Leg_Ik
+    100082: R_Shoulder_Jnt
+    100084: Root_Con
+    100086: Root_Jnt
+    100088: Spine_Jnt
+    100090: Tail1_Con
+    100092: Tail1_Jnt
+    100094: Tail2_Jnt
+    100096: Tail2_Jnt 1
+    100098: Tail3_Jnt
+    400000: //RootNode
+    400002: Character_Turtle_Model
+    400004: Global_Con
+    400006: Hat_Jnt
+    400008: Head_Con
+    400010: Head_Jnt
+    400012: L_Ankle_Jnt
+    400014: L_Ankle_Jnt 1
+    400016: L_Arm_Con
+    400018: L_Arm_Ik
+    400020: L_Arm_Pol_Con
+    400022: L_Elbow_Jnt
+    400024: L_Foot_Con
+    400026: L_Foot_Con2
+    400028: L_Foot_Ik
+    400030: L_Foot_Jnt
+    400032: L_Foot_Jnt 1
+    400034: L_Hand_Con
+    400036: L_Hand_Ik
+    400038: L_Hip_Jnt
+    400040: L_Knee_Jnt
+    400042: L_Leg_Con
+    400044: L_Leg_Ik
+    400046: L_Shoulder_Jnt
+    400048: Neck_Con
+    400050: Neck_Jnt
+    400052: R_Ankle_Jnt
+    400054: R_Ankle_Jnt 1
+    400056: R_Arm_Con
+    400058: R_Arm_Ik
+    400060: R_Arm_Pol_Con
+    400062: R_Elbow_Jnt
+    400064: R_Foot_Ik
+    400066: R_Foot_Jnt
+    400068: R_Foot_Jnt 1
+    400070: R_Hand_Con
+    400072: R_Hand_Ik
+    400074: R_Hip_Jnt
+    400076: R_Knee_Jnt
+    400078: R_Leg_Con
+    400080: R_Leg_Ik
+    400082: R_Shoulder_Jnt
+    400084: Root_Con
+    400086: Root_Jnt
+    400088: Spine_Jnt
+    400090: Tail1_Con
+    400092: Tail1_Jnt
+    400094: Tail2_Jnt
+    400096: Tail2_Jnt 1
+    400098: Tail3_Jnt
+    4300000: Character_Turtle_Model
+    7400000: Turtle_Bind_Anim
+    7400002: Turtle_Idle1_Anim
+    7400004: Turtle_Idle2_Anim
+    7400006: Turtle_Retreat_Anim
+    7400008: Turtle_Retreat_Idle_Anim
+    7400010: Turtle_Retreat_Exit_Anim
+    7400012: Turtle_Walk_Anim
+    7400014: Turtle_Startle_Anim
+    7400016: Turtle_Intrest_Anim
+    7400018: Turtle_Eat_Anim
+    7400020: Turtle_Jump_Anim
+    7400022: Turtle_Surprise_Anim
+    7400024: Turtle_Bump_Anim
+    7400026: Turtle_Happy_Anim
+    9500000: //RootNode
+    13700000: Character_Turtle_Model
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Turtle_Bind_Anim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Idle1_Anim
+      takeName: Take 001
+      firstFrame: 6
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Idle2_Anim
+      takeName: Take 001
+      firstFrame: 27
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Retreat_Anim
+      takeName: Take 001
+      firstFrame: 76
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Retreat_Idle_Anim
+      takeName: Take 001
+      firstFrame: 108
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Retreat_Exit_Anim
+      takeName: Take 001
+      firstFrame: 132
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Walk_Anim
+      takeName: Take 001
+      firstFrame: 192
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Startle_Anim
+      takeName: Take 001
+      firstFrame: 217
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Intrest_Anim
+      takeName: Take 001
+      firstFrame: 229
+      lastFrame: 278
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Eat_Anim
+      takeName: Take 001
+      firstFrame: 280
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Jump_Anim
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 318
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Surprise_Anim
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 402
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Bump_Anim
+      takeName: Take 001
+      firstFrame: 404
+      lastFrame: 418
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turtle_Happy_Anim
+      takeName: Take 001
+      firstFrame: 421
+      lastFrame: 445
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Turtle_Model
+        weight: 1
+      - path: Global_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Arm_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con
+        weight: 1
+      - path: Global_Con/L_Arm_Con/L_Hand_Con/L_Hand_Ik
+        weight: 1
+      - path: Global_Con/L_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Foot_Con2/L_Foot_Ik
+        weight: 1
+      - path: Global_Con/L_Leg_Con/L_Leg_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Arm_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con
+        weight: 1
+      - path: Global_Con/R_Arm_Con/R_Hand_Con/R_Hand_Ik
+        weight: 1
+      - path: Global_Con/R_Arm_Pol_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con
+        weight: 1
+      - path: Global_Con/R_Leg_Con/L_Foot_Con/R_Foot_Ik
+        weight: 1
+      - path: Global_Con/R_Leg_Con/R_Leg_Ik
+        weight: 1
+      - path: Global_Con/Root_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Neck_Con/Head_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con
+        weight: 1
+      - path: Global_Con/Root_Con/Tail1_Con/Tail2_Jnt 1
+        weight: 1
+      - path: Root_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/L_Hip_Jnt/L_Knee_Jnt/L_Ankle_Jnt/L_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt
+        weight: 1
+      - path: Root_Jnt/R_Hip_Jnt/R_Knee_Jnt/R_Ankle_Jnt/R_Foot_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/L_Shoulder_Jnt/L_Elbow_Jnt/L_Ankle_Jnt 1/L_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/Neck_Jnt/Head_Jnt/Hat_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1
+        weight: 1
+      - path: Root_Jnt/Spine_Jnt/R_Shoulder_Jnt/R_Elbow_Jnt/R_Ankle_Jnt 1/R_Foot_Jnt
+          1
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt
+        weight: 1
+      - path: Root_Jnt/Tail1_Jnt/Tail2_Jnt/Tail3_Jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
