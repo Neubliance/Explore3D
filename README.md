@@ -6,4 +6,3 @@ Term Project for Interactive Game Design
 
 ## Downloads
 <a href="" download>Android</a><br>
-<a href="" download>iOS</a>
