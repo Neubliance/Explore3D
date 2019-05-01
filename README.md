@@ -4,4 +4,4 @@ Term Project for Interactive Game Design
 * Explore the area and find over 100 secrets! Some of which you may never see!
 * 3D mobile controls with run, jump, and crouch to navigate the map effectively.
 
-<a href="" download>Download</a><br>
+<a href="Builds/Kilgore.Explore3D.apk" download>Download</a><br>
